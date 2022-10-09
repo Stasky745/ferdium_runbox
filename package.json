@@ -6,6 +6,7 @@
 	"main": "index.js",
 	"author": "Stasky",
 	"license": "MIT",
+	"repository": "https://github.com/Stasky745/ferdium_runbox",
 	"config": {
 		"serviceURL": "https://runbox.com/mail/rules"
 	}
