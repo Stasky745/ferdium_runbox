@@ -1,0 +1,12 @@
+{
+	"id": "runbox",
+	"name": "Runbox",
+	"version": "1.0.0",
+	"description": "Runbox Filters",
+	"main": "index.js",
+	"author": "Stasky",
+	"license": "MIT",
+	"config": {
+		"serviceURL": "https://runbox.com/mail/rules"
+	}
+}
